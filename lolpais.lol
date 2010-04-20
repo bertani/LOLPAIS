@@ -1,18 +1,15 @@
 WTF IS THAT? Thomas Bertani's lolPython INTERACTIV SHELL, UHOOOO :O
 BTW DO WUT U WANT CUZ A PIRATE IS FREE
 
-IN MAI os GIMME system LIKE SYS
-IN MAI sys GIMME exc_info LIKE DUNNOWHY
 IN MAI lolpython GIMME to_python LIKE TOPY
 IN MAI __builtin__ GIMME raw_input LIKE INPUT
+IN MAI code GIMME InteractiveInterpreter LIKE ME
 
 IZ __name__ KINDA LIKE "__main__"?
-    TMP CAN HAZ "/tmp/.lolpy"
     COMPLAIN "WELCOME TO THE lolPY INTERACTV SHELL ;)"
+    SHE CAN HAZ ME WIT OK
+    PS1 CAN HAS '>' OF THOSE THR33
     WHILE I CUTE?
-        HE CAN HAS INPUT WIT '>>> ' OK
-        I CAN HAZ TOPY WIT HE OK
-        SYS WIT "echo \"" ALONG WITH I ALONG WITH "\">" ALONG WITH TMP OK
-        PLZ? execfile WIT TMP OK
-        O NOES? VISIBLE "U N00B -> " AND DUNNOWHY WIT OK LOOK AT 1!
-        WHATEVER? I IZ CUTE
+        HER CAN HAS INPUT WIT PS1 ALONG WITH ' ' OK
+        SYLAR CAN HAZ TOPY WIT HER OK
+        SHE OWN runcode WIT SYLAR OK
