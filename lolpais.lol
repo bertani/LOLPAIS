@@ -1,4 +1,8 @@
+WTF IS THAT? Thomas Bertani's lolPython INTERACTIV SHELL, UHOOOO :O
+BTW DO WUT U WANT CUZ A PIRATE IS FREE
+
 IN MAI os GIMME system LIKE SYS
+IN MAI sys GIMME exc_info LIKE DUNNOWHY
 IN MAI lolpython GIMME to_python LIKE TOPY
 IN MAI __builtin__ GIMME raw_input LIKE INPUT
 
@@ -10,5 +14,5 @@ IZ __name__ KINDA LIKE "__main__"?
         I CAN HAZ TOPY WIT HE OK
         SYS WIT "echo \"" ALONG WITH I ALONG WITH "\">" ALONG WITH TMP OK
         PLZ? execfile WIT TMP OK
-        O NOES? VISIBLE "U N00B"
+        O NOES? VISIBLE "U N00B -> " AND DUNNOWHY WIT OK LOOK AT 1!
         WHATEVER? I IZ CUTE
